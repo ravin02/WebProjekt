@@ -68,7 +68,7 @@ nav {
 }
 
 .signupbutton input{
-    width: 100%;
+    width: 200px;
     padding: 0 5px;
     height: 40px;
     font-size: 12px;
@@ -98,6 +98,9 @@ label {
     padding: 10px;
 }
 
-
+.reasonsignup {
+    list-style-position: inside;
+    text-align: center;
+}
 
 
