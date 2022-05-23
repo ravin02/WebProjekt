@@ -1,0 +1,103 @@
+#projname {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav {
+    border: solid;
+    padding-top: 10px;
+
+}
+
+.nav-link {
+    margin-right: 50px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    /* put value of image height as your need */
+    float: left;
+    margin-right: 7px;
+}
+
+.container-login h3 {
+    text-align: center;
+}
+
+.container-login p {
+    font-size: 16px;
+    text-align: left;
+    padding: 0;
+}
+
+.container-login {
+    position: absolute;
+    width: 400px;
+    top: 40%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border: solid;
+}
+
+.container-login input {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 12px;
+    border: none;
+    border-bottom: 1px solid silver;
+}
+
+.loginbutton input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 12px;
+    border: none;
+}
+
+.container-sign\.up {
+    width: 100%;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    border-top: solid;
+}
+
+.signupbutton input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 12px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.container-sign\.up input:hover {
+    background-color: dimgrey;
+    color: white;
+    font-weight: bolder;
+}
+
+.loginbutton input {
+    background-color: black;
+    color: white;
+}
+
+.loginbutton input:hover {
+    font-weight: bolder;
+    color: white;
+    background-color: dimgrey;
+}
+
+label {
+    padding: 10px;
+}
+
+
+
+
