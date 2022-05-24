@@ -1,3 +1,11 @@
+body{
+    position: static;
+}
+html{
+    scroll-behavior: auto;
+}
+.clear { clear: both; height: 60px; }
+
 #projname{
     text-align: center;
     font-weight: bold;
@@ -105,4 +113,8 @@ margin-right: 50px;
     font-size: large;
     color: white;
     margin:auto;
+}
+
+.col-md-4{
+    border: 1px solid;
 }
